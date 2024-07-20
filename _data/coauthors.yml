@@ -1,34 +1,19 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"lu":
+  - firstname: ["Xi"]
+    url: https://www.tsinghua.edu.cn/enven/info/1052/1977.htm
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"hao":
+  - firstname: ["Jiming"]
+    url: https://www.tsinghua.edu.cn/enven/info/1052/1988.htm
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"caldeira":
+  - firstname: ["Ken"]
+    url: https://bse.carnegiescience.edu/dr-ken-caldeira-emeritus
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"davis":
+  - firstname: [" Steven J."]
+    url: https://www.ess.uci.edu/~sjdavis/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"mcelroy":
+  - firstname: ["Michael B.", "Michael", "Michael B"]
+    url: https://eps.harvard.edu/people/michael-b-mcelroy

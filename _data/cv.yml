@@ -2,96 +2,198 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shi Chen (陈诗)
     - name: Languages
-      value: English, German
+      value: Madarian (native), English (fluent)
+    - name: Email
+      value: <a href="mailto:schen10@carnegiescience.edu">schen10@carnegiescience.edu</a>
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=SDRPjegAAAAJ">https://scholar.google.com/citations?user=SDRPjegAAAAJ</a>
+    - name: Research Interests
+      value: Renewable energy, Environmental system modeling
+
+      # links:
+      #   - link: /assets/pdf/CV_RequenaPlensJoseManuel_SPA.pdf
+      #     name: CV PDF [SPANISH]
+      #   - link: /assets/pdf/CV_RequenaPlensJoseManuel_ENG.pdf
+      #     name: CV PDF [ENGLISH]
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Environmental Engineering
+      institution: Tsinghua University
+      department: School of Environment
+      location: China
+      year: 2017 - 2021
+    - title: B.S. in Environmental Science
+      institution: Nankai University
+      department: College of Management and Economy
+      location: China
+      year: 2013 - 2017
+    - title: B.B.A. in Business Administration
+      institution: Tianjin University
+      department: School of Environmental Science and Engineering
+      location: China
+      year: 2015 - 2017
 
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Research Fellow
+      institution: Carnegie Institution for Science
+      location: USA
+      year: 2024 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "PI: Prof. Ken Caldeira and Prof. Steven J. Davis"
+
+    - title: Postdoctoral Research Fellow
+      institution: School of Environment, Tsinghua University
+      location: China
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "PI: Prof. Jiming Hao"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Guest Research Assistant
+      institution: International Institute for Applied Systems Analysis
+      location: Austria
+      year: 2023
       description:
+        - "PI: Dr. Fabian Wagner and Mr. Zbigniew Klimon"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Climate Corps Fellow of Environmental Defense Fund (EDF)
+      institution: LONGi Green Energy Technology Co., Ltd.
+      location: China
+      year: 2021
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Fellow
+      institution: John A. Paulson School of Engineering and Applied Sciences, Harvard University
+      location: USA
+      year: 2019 - 2020
+      description:
+        - "PI: Prof. Michael B. McElroy"
+
+    - title: Marketing Intern
+      institution: StarTimes Cooperation
+      location: Kenya
+      year: 2019
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Princeton University High Meadows Environmental Institute (HMEI) Environmental Fellowship
+    - year: 2023
       items:
-        - Max Planck Medal
+        - MIT Technology Review TR 35 Innovators under 35, China
+    - year: 2021
+      items:
+        - Recipient of the Postdoctoral Innovation Talents Support Program, China
+    - year: 2021
+      items:
+        - Shuimu Scholars Award, Tsinghua University
+    - year: 2021
+      items:
+        - Innovation Award, Environmental Defense Fund
+    - year: 2021
+      items:
+        - Excellent Graduate of School of Environment, Tsinghua University
+    - year: 2020
+      items:
+        - Merit Scholarship, Tsinghua University
+    - year: 2019
+      items:
+        - Chinese Government Scholarship for Overseas Study
+    - year: 2017
+      items:
+        - Future Scholar Award, Tsinghua University
+    - year: 2017
+      items:
+        - Excellent Graduate, Nankai University
+    - year: 2014 - 2016
+      items:
+        - National Scholarships, Ministry of Education (Recipient for Three Consecutive Years)
 
-- title: Academic Interests
-  type: nested_list
+- title: Grants
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year: 2024 - 2027
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - USD 251,000, High Meadows Environmental Fellowship, Princeton University (Withdrawn)
+    - year: 2023 - 2025
       items:
-        - Description 1.
-        - Description 2.
+        - "CNY 300,000, National Science Fund of China (NSFC) Yong scholars Program (Number: 72204132)"
+    - year: 2021 - 2023
+      items:
+        - "CNY 230,000, China Postdoctoral Science Foundation Innovative Talents Support Program (Number: BX2021148)"
 
-- title: Other Interests
-  type: list
+
+- title: Invited Talks
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: Apr. 2024
+      items:
+        - Engineering Special Seminar, Westlake University, Hangzhou, China (remote)
+    - year: Apr. 2024
+      items:
+        - Sustainability Data Science Conference, Stanford University, United States
+    - year: Mar. 2024
+      items:
+        - Department of Global Ecology (DGE) lunch chat, Carnegie Science, United States
+    - year: Dec. 2023
+      items:
+        - The 2nd International Excellent Young Scholars Environment Forum, Beijing, China
+    - year: Aug. 2023
+      items:
+        - The 1st Beijing Interdisciplinary Conference, Beijing, China (Best Oral Presenter)
+    - year: Jul. 2023
+      items:
+        - The 1st China Environmental Science Youth Forum, Guangzhou, China
+    - year: Nov. 2022
+      items:
+        - Yong Scholars Salon- Tsinghua Youth Climate Week, Beijing, China
+    - year: Nov. 2022
+      items:
+        - The 1st National Environmental Postdoctoral Forum, Beijing, China (Best Oral Presenter)
+
+    - year: Dec. 2021
+      items:
+        - The 1st Guangdong-Hong Kong-Macao Greater Bay Area Environmental and Ecological Young Crops International Forum, Guangzhou, China
+    - year: Nov. 2020
+      items:
+        - The 11th China Energy Scientists Forum, Jiaozhou, China
+
+- title: Academic Service
+  type: time_table
+  contents:
+    - year: 2023 - Now
+      items:
+        - Youth editorial board member for Clean Energy Science and Technology
+    - year: 2022
+      items:
+        - Executive Secretary and Working Group Member for the China Carbon Neutrality and Clean Air Synergy Path Report 2022, organized by the China Clean Air Policy Partnership (CCAPP)
+    - year: 2022 - 2023
+      items:
+        - Executive Secretary of the Wind and Solar Development Report for China, led by the Institute for Carbon Neutrality at Tsinghua University
+    - year: 2021 - Now
+      items:
+        - Reviewer for Energy Strategy Reviews, Energies, the National Environmental Conference for Doctoral Students, China
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
